@@ -1,0 +1,23 @@
+body {
+    background-color: #e7e0e0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+    color: #333333;
+    font-size: 16px;
+    overflow-x: hidden;
+  }
+  .no-padding {
+    padding: 0;
+  }
+  
+  .no-border {
+    border: none;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat", sans-serif;
+  }
+  h1 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 40px;
+    margin: 0;
+  }
